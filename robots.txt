@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /sushiswap/
+Sitemap: https://bridge-base.github.io/sitemap.xml
