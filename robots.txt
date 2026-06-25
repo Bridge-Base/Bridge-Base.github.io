@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://bridge-base.github.io/sitemap.xml
